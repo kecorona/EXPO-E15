@@ -56,15 +56,3 @@ Academic Writing
  -------------------
 
  #### Academic questions are the foundation of all academic essays
-
-
- Daniel Hemel's "Lincoln"
--------------------------
-
- * From Expose
- * Winner of the Sosland Prize
- * Reviewed by faculty from variety of fields and disciplines
-
- Hemel's "question"
- ------------------
- * What i

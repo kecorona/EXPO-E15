@@ -7,6 +7,11 @@
 3. Sandel 11/12
 
 ##	Hemel / Lincoln
+Daniel Hemel’s <a href="https://github.com/kecorona/EXPO-E15/tree/master/resources">_A New Birth of Freedom_: The Evolution of Lincoln’s Views on Race”</a>
+### Introduction
+ * From Expose
+ * Winner of the Sosland Prize
+ * Reviewed by faculty from variety of fields and disciplines
 
 ###	Why Hemel's 'question' is a good one
 * Uses pivot words like "however", "but", "while" to illustrate tension
