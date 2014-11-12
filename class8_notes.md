@@ -1,62 +1,80 @@
-# Section 9 | EXPO E-15
+#	Class 7 - Notes
 
-## Comments on comments
+##	Calendar Changes
 
->>Comments are not comprehensive. They are focused on the main goals of revision.
+1. Essay 1 due 11/3
+2. Rev due 11/11
+3. Sandel 11/12
 
->>Revision due date extended to Nov 14
+##	Hemel / Lincoln
 
-## Revision strategies: Using and integrating quotes
+Daniel Hemel’s <a href="https://github.com/kecorona/EXPO-E15/blob/master/resources/hemel.md">_A New Birth of Freedom_: The Evolution of Lincoln’s Views on Race”</a>
 
->>Scrub out any stand-alone quotes
->>
+### Introduction
+ * From Expose
+ * Winner of the Sosland Prize
+ * Reviewed by faculty from variety of fields and disciplines
 
-## Explicating Quotes
+###	Why Hemel's 'question' is a good one
+* Uses pivot words like "however", "but", "while" to illustrate tension
+* (note the initial "however", which occurs in the logical as well as spatial center of the paragraph)
+suppresses his own "voice" - uses quotes and texts to raise the question
 
-## Transition Sentences: 
+###	The kinds of questions we ask
+* there is an ambiguity that is worth clearing up
+* there is a contradiction or tensino worth resolving or investigating
+* there is a mystery or puzzle worth resolving or investigating
+* there are questions raised with unclear answers
+* what seems simple is more complicated than it seems
+* what seems insignificant yields something important upon deeper investigation
 
-### Echoing
+###	Questioning Deresiewicz
 
-### Paraphrase and preview
+> "The first disadvantage of an elite education [...] is that it makes you
+> incapable of talking to people who aren't like you"(1).
 
-Think of your transition as a bridge.
+> "So alien was [the plumber's] experience to me, so unguessable his 
+> values...."
 
-"__Although Deresiewicz argues that elite education makes one incapable of communicating with anyone unlike one's self,__ he fails to recognize that this same problem applies to all levels and types of education, not just the elite."
+> The experience of "entitled mediocrity" is very different from that of a 
+> "friend of mine who went to Cleveland State" (3).
+
+> "My friend once got a D in a class in which she'd been running an A 
+> because she was coming off a waitressing shift..."(3).
+
+* Deresiewicz claims "Ivy retardation" as the source of his inability to talk to a plumber
+* Which stems, more largelu from the sense of superiority incalculated in elites
+* Yet he has a close friend (with many details from her life) who goes to a state school and is a waitress
+
+Plumbers vs waitresses
+* He is and isn't able to talk to those unlike him
+* He does and doesn't look down on non-elites
+* What counts as the 'first' disadvantage of the elite education comes and goes with different examples!
+
+####	How would we 'show' this question?
+* Next: show WD's first example
+- Give context for plumber
+- Discuss "Ivy retardation"
+
+* Next: _however_ moment and WD's 2nd example
+- 'However' ... WD
+
+* Next: present the 'question'
+- WD contradicts himself
+- Or WD's sense of the importance of the 'first' disadvantage ebbs and flows with particular example or piece of evidence
+
+####	So What?
+* Why is this question important
+* Why should we care if (for example) WD contradicts himself or is ambiguous?
+* What are the larger implicatinos for his overall argument if he contradicts himself or is ambigious on this point?
+* Why is asking this question, and thinking about its "answer", valuable or worthwhile
 
 
-### Return to the Thesis
+##	Thinking about Thesis Statements
 
-__Because__ Deresiewicz's examples of the inability to communicate are both arbitrary and contradictory, __a fundamental flaw in this crucial aspect of his argument about the disadvantages of elite education develops.__
+###	Definitions
+-- Thesis = an essay's _overall argument_ – the thesis is present in every section and paragraph of the essay
+-- Thesis statement = the _one sentence_ crystallization of that overall argument; it appears only once, which is _almost always the last sentence of the first paragraph_.
 
-### Paragraphs
-
-The point of a paragraph...
-
-Paragraphs sould be organized around their _purpose_ (not 'just' their content)
-
-	What is the paragraph about?
-	What is the paragraph _doing_? (is it summary, etc)
-	Why is the paragraph doing this? What does it accomplish in the overall arc of the argument("why am I summarizing here")
-
-Paragraphs should always be checked for
-	Transition and connection between sentences within paragraph
-	Voices: who is speaking, when, where, and why (is 'your' voice there?)
-	Where does your paragraph start
-	Where does the paragraph end
-	How long is it? (rules of thumb)
-
-Revision strategy:
-	For each of your paragraphs, write out the following:
-		The content of the paragraph (what it will be about)
-		The purpose of the paragraph (what role it plays in your developing argument)
-		The paragraph's connection to the previous paragraphs
-
-## Conclusions
-
-What a conclusion isn't
-	Something that comes after the end of your argument
-	A chance to 'rehearse' or 'summarize' your argument
-
-Conclusion Suggestions:
-	Return to your opening question
-	Analyze an especially important quote
+##	Bad Thesis Statements
+1.	Deresiewicz claims that there are many disadvantages to an elite education, but my friend went to Yale and he's a great guy!

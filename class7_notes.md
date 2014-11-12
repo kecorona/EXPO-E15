@@ -1,78 +1,58 @@
-#	Class 7 - Notes
+Class 7 – Lecture Notes
+========================
 
-##	Calendar Changes
+RP4 Revision
+-------------
 
-1. Essay 1 due 11/3
-2. Rev due 11/11
-3. Sandel 11/12
+Add 3-4 sentences that make a claim about how the failure of James' use of evidence affects his argument
 
-##	Hemel / Lincoln
-Daniel Hemel’s <a href="https://github.com/kecorona/EXPO-E15/tree/master/resources">_A New Birth of Freedom_: The Evolution of Lincoln’s Views on Race”</a>
-### Introduction
- * From Expose
- * Winner of the Sosland Prize
- * Reviewed by faculty from variety of fields and disciplines
+Academic Writing
+-----------------
 
-###	Why Hemel's 'question' is a good one
-* Uses pivot words like "however", "but", "while" to illustrate tension
-* (note the initial "however", which occurs in the logical as well as spatial center of the paragraph)
-suppresses his own "voice" - uses quotes and texts to raise the question
+### What is academic writing?
 
-###	The kinds of questions we ask
-* there is an ambiguity that is worth clearing up
-* there is a contradiction or tensino worth resolving or investigating
-* there is a mystery or puzzle worth resolving or investigating
-* there are questions raised with unclear answers
-* what seems simple is more complicated than it seems
-* what seems insignificant yields something important upon deeper investigation
+* How is it different from other types of writing, like journalism, fiction, memoir, biography, etc.?
+  * Analysis
 
-###	Questioning Deresiewicz
-
-> "The first disadvantage of an elite education [...] is that it makes you
-> incapable of talking to people who aren't like you"(1).
-
-> "So alien was [the plumber's] experience to me, so unguessable his 
-> values...."
-
-> The experience of "entitled mediocrity" is very different from that of a 
-> "friend of mine who went to Cleveland State" (3).
-
-> "My friend once got a D in a class in which she'd been running an A 
-> because she was coming off a waitressing shift..."(3).
-
-* Deresiewicz claims "Ivy retardation" as the source of his inability to talk to a plumber
-* Which stems, more largelu from the sense of superiority incalculated in elites
-* Yet he has a close friend (with many details from her life) who goes to a state school and is a waitress
-
-Plumbers vs waitresses
-* He is and isn't able to talk to those unlike him
-* He does and doesn't look down on non-elites
-* What counts as the 'first' disadvantage of the elite education comes and goes with different examples!
-
-####	How would we 'show' this question?
-* Next: show WD's first example
-- Give context for plumber
-- Discuss "Ivy retardation"
-
-* Next: _however_ moment and WD's 2nd example
-- 'However' ... WD
-
-* Next: present the 'question'
-- WD contradicts himself
-- Or WD's sense of the importance of the 'first' disadvantage ebbs and flows with particular example or piece of evidence
-
-####	So What?
-* Why is this question important
-* Why should we care if (for example) WD contradicts himself or is ambiguous?
-* What are the larger implicatinos for his overall argument if he contradicts himself or is ambigious on this point?
-* Why is asking this question, and thinking about its "answer", valuable or worthwhile
+* What are its most prominent characteristics?
+* What does it look like? 
+* What is its tone like?
+* What is its style like? What is its purpose?
 
 
-##	Thinking about Thesis Statements
+### The Four Tenets of Academic Writing
+#### 1. Academic writing ALWAYS begins by asking real questions
 
-###	Definitions
--- Thesis = an essay's _overall argument_ – the thesis is present in every section and paragraph of the essay
--- Thesis statement = the _one sentence_ crystallization of that overall argument; it appears only once, which is _almost always the last sentence of the first paragraph_.
+  1. Real questions are questions for which we don't have real answers
 
-##	Bad Thesis Statements
-1.	Deresiewicz claims that there are many disadvantages to an elite education, but my friend went to Yale and he's a great guy!
+  2. [CRUCIAL HINT #1] Real questions almost always come from the texts or material that you are analyzing, NOT from your own opinions on or interests in an issue
+
+  3. Real questions are questions ALL readers should have
+  Real questions are questions that require an argument to be answered
+
+#### 2. Academic writing makes real arguments
+
+##### What is a 'real' argument?
+
+  
+  1. A real argument is rooted in analysis, evidence, and logical development
+
+  2. A real argument responds to and engages positions and views that reasonable people actually hold (i.e., no "straw man" arguments)
+
+  3. An argument is 'real' only if reasonable, intelligent people think it might be wrong
+
+  [CRUCIAL HINT #2] Any thesis statement that you produce for this class must have a logical, reasonable, and possible 
+ 'counter' thesis statement
+ You should be able to write an opposite thesis statement that still makes sense and seems reasonable, and seems like an arguemtn people actually might make. If you can't do this, you don't have a good thesis statement.
+
+ #### 3. Academic essays are structured according to the logic of the argument, NOT a formula
+
+ [CRUCIAL HINT #3]
+ A good way to test the structure of your essay is to ask whether you can rearrange the order of the paragraphs without affecting the argument.
+
+ #### 4. In academic writing, sources are used to make a new argument.
+
+ Academic Questions
+ -------------------
+
+ #### Academic questions are the foundation of all academic essays
