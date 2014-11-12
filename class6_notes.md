@@ -59,7 +59,7 @@ Academic Writing
 
 
  Daniel Hemel's "Lincoln"
- =========================
+-------------------------
 
  * From Expose
  * Winner of the Sosland Prize
