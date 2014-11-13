@@ -65,3 +65,8 @@
 	* That is, the danger of simply mimicking or presengint another voice as "right"
 	* Creating the sense of safistication and scholarship
 		* Moves you up into nuanced understanding of knowledge and understanding and how they interact to make new and better arguments
+
+# Michael Sandel
+*Teaches famous cource on Justice
+* Wrote his dissertation (later published as _Liberalism and the Limits of Justice_) on John Rawls' _Theory of Justice_ **READ**
+* Confirmed to be the basis for Mr. Burns in the Simpsons **WOAH**
