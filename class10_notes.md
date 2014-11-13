@@ -101,4 +101,31 @@
 	* Do we "want to live in a society where parents feel compelled to spend a fortune to make perfectly healthy kids a few inches taller?"
 
 * NOT a question of "autonomy"
+	* We are not "free" to choose anyway
+	* Our physical characteristics, talents, and son on, are subject to the "mercy" of the "genetic lottery"
+	* Not a choice between being free and being determined (just a matter of who/what chooses for us)
+	* Genetic enahncement does not take away our autonomy, becuase we never had autonomy to begin with
 	
+## Sandel's Case
+
+###__The drive to mastery__
+
+* "Hyper-agency": the desire to think of everything as under our control
+
+* Anything can be manipulated to serve our purposes and satisfy our desires
+
+* Including human nature & specific human beings
+
+* The problem is, we start to think of ourselves, and more importantly, other people, like that
+
+* We start to have the same relationship with objects as we do with other human beings-- how we relate to things in the world
+
+* The "Promethean self-image" – to act like Gods or do what is for the Gods only
+	- Gives fire to humans and is punished for it (metaphoric point)
+	- Some things are and should be beyond human control
+
+###__The importance of the given and "giftedness"__
+
+* Recognizing that not everything is open to our use, manipulation, or fulfillment of our desires
+
+* 
