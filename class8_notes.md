@@ -30,17 +30,11 @@ suppresses his own "voice" - uses quotes and texts to raise the question
 
 ###	Questioning Deresiewicz
 
-> "The first disadvantage of an elite education [...] is that it makes you
-> incapable of talking to people who aren't like you"(1).
+> "The first disadvantage of an elite education [...] is that it makes you incapable of talking to people who aren't like you"(1). "So alien was [the plumber's] experience to me, so unguessable his values...."
 
-> "So alien was [the plumber's] experience to me, so unguessable his 
-> values...."
+>The experience of "entitled mediocrity" is very different from that of a "friend of mine who went to Cleveland State" (3).
 
-> The experience of "entitled mediocrity" is very different from that of a 
-> "friend of mine who went to Cleveland State" (3).
-
-> "My friend once got a D in a class in which she'd been running an A 
-> because she was coming off a waitressing shift..."(3).
+>"My friend once got a D in a class in which she'd been running an A because she was coming off a waitressing shift..."(3).
 
 * Deresiewicz claims "Ivy retardation" as the source of his inability to talk to a plumber
 * Which stems, more largelu from the sense of superiority incalculated in elites
