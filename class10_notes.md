@@ -12,14 +12,21 @@
 * To enter into a conversation about important subjects rather than "present decrees" on them
 * To "credential" ourselves as belonging in the conversation
 	* Prove that we belong in the conversation–show that we have a "right to know"
-> WANDLER RANT
-> Wandler project: Theories of knowledge in the digital era
-> Idea of scholarship is not democratic, you do not get a seat at a table just because you are a citizen, you need to earn that right by credentialing yourself
-> How? ... good question
-> Mimicking intellectual moves we need to do in order to credential ourselves
-	> This is what happens when you go through a concentration at harvard
-	> What you're doing is proving that you belong in the conversation because you got this degree at this standard
-> END WANDLER RANT
+>WANDLER RANT
+
+>Wandler project: Theories of knowledge in the digital era
+
+>Idea of scholarship is not democratic, you do not get a seat at a table just because you are a citizen, you need to earn that right by credentialing yourself
+
+>How? ... good question
+
+>Mimicking intellectual moves we need to do in order to credential ourselves
+
+>This is what happens when you go through a concentration at harvard
+
+>What you're doing is proving that you belong in the conversation because you got this degree at this standard
+
+>END WANDLER RANT
 * To compare and contrast ideas in order to improve overall understanding
 	* And move us toward as much of a consensus as possible
 * Sources don't replace your own argument; they augment and enhance it
@@ -29,3 +36,6 @@
 
 * They can provide factual information
 	* Background, data, statistics, biographical, information, dates, etc.
+* They can provide arguments/ideas/claims
+	- that you engage, challenge, build on, etc.
+* In other words, please note that sources don't just prove arguments right or wrong... they just present what others argue or know
