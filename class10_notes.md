@@ -12,6 +12,7 @@
 * To enter into a conversation about important subjects rather than "present decrees" on them
 * To "credential" ourselves as belonging in the conversation
 	* Prove that we belong in the conversation–show that we have a "right to know"
+
 >WANDLER RANT
 
 >Wandler project: Theories of knowledge in the digital era
@@ -27,6 +28,7 @@
 >What you're doing is proving that you belong in the conversation because you got this degree at this standard
 
 >END WANDLER RANT
+
 * To compare and contrast ideas in order to improve overall understanding
 	* And move us toward as much of a consensus as possible
 * Sources don't replace your own argument; they augment and enhance it
