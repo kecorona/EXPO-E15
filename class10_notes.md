@@ -128,4 +128,17 @@
 
 * Recognizing that not everything is open to our use, manipulation, or fulfillment of our desires
 
-* 
+* "To acknowledge the giftedness of life is to acknowledge that our talents and powers are not wholly our own oding despite the effort we expend to develop them."
+
+* "It is also to recognize that not everything in the world is not open to whatever use we may desire or devise."
+
+# Your Assignment
+
+* Revisse Essay 1 (due in Dropbox Friday 10pm)
+
+* Response Paper 5: Summarizing and responding to Sandel (due Monday @ 10pm in Dropbox)
+
+* Please note: I've decided to make this RP __optional__ (you'll only be graded on best 5 RPs)
+
+* Finally, read the 3 articles on Sandel's argument at iSite
+
