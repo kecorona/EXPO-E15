@@ -69,4 +69,36 @@
 # Michael Sandel
 *Teaches famous cource on Justice
 * Wrote his dissertation (later published as _Liberalism and the Limits of Justice_) on John Rawls' _Theory of Justice_ **READ**
-* Confirmed to be the basis for Mr. Burns in the Simpsons **WOAH**
+* Often associated with "communitarianism"
+* Confirmed to be the inspirations for Mr. Burns in _The Simpsons_
+	* The finger gesture
+	**WOAH**
+
+## NOT the "real question"
+
+* NOT a question of potential medical dangers
+	* He begins by stating that he is writing about genetic enhancement
+	* 'Even though everyone is already against genetic enhancement, they are against it, but they don't know why they should be (misinformed, incorrect reasons)
+	* Sandel states all of the arguments, and why they are wrong
+		* Not a question of the potential medical dangers
+
+	* Imagine if it were made perfectly safe
+
+* NOT a question of "fairness"
+	* Things are already deeply "unfair" on the genetic level
+	* Unnatural unfairness is no different from _natural_ unfairness
+	* Why does it matter if someone is better than you at somethign because of natural or artificial reasons?
+
+* NOT a question of "access" or "creating two races"
+	* Could potentially be answered through government subsidy, takes, etc.
+	* Disguises the real worry: is it bad to be left behind _un_enhanced, or is it bad to enhance?
+	* Do we regret those who choose to perfect their children, or do we regret those who are unable to?
+		* Sandel is saying that is kind of the former
+
+* NOT a question of "genetic arms race"
+	* A question of motive and intention, not consequence
+	* Takes and other procedures could offset costs
+	* Do we "want to live in a society where parents feel compelled to spend a fortune to make perfectly healthy kids a few inches taller?"
+
+* NOT a question of "autonomy"
+	
