@@ -41,3 +41,29 @@
 * An openness to the unbidden
 * Accept children as gifts, not products of our will or instruments of our ambition:
 	-"Parental loe is not contingent on the talents and attrivutes the child happen to have"
+* But there is still "accepting and transforming love"
+* Hyperparenting: "this demand for performance and perfection [...] is the deepest source of the moral trouble with enhancement"
+
+### Effect #1
+
+#### Diminishing humility
+
+* G.E. would make the "myth of the self-made man" come true
+* Our talents become our achievement, not a gift for which we should be humbly grateful
+
+### Effect #2
+
+####Explosion of responsibility
+
+* "The more we become masters of our genetic endowments, the greater the burden we bear for the talents we have and the way we perform"
+	We become responsibile for our achievements and lack of achievements
+* Athletes failing, students performing poorly, babies being handicapped, etc.
+
+### Effect #3
+
+#### Erosion of solidarity
+
+* Insurance markets
+* "Mutuality by inadvertence"
+* The successful are lucky and so have an obligation to share with the simply unlucky
+* "the deserving rich," "the deserving poor"
