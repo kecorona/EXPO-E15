@@ -11,6 +11,33 @@
 
 ### Excellence
 
-"[S]triving is not the point of sports; excellence is. Ance excellence consists at least partly in the display of natural talents and gifts that are no doing of the athlete who possesses them"
+* "[S]triving is not the point of sports; excellence is. Ance excellence consists at least partly in the display of natural talents and gifts that are no doing of the athlete who possesses them"
 
-Pete Rose vs. Joe Dimaggio
+* Pete Rose vs. Joe Dimaggio
+	Striving is not the point of sports
+	The excellence that results from that sriving is the poit of sports
+
+* Imagine awarding runs / score based on effort rather than accomplishment
+
+### Embarrassing the "meriocratic faith"
+
+* The faith that we get what we deserve, through earning, striving, hard work, etc.
+	* What we have is what we deserve; rewards goes to those who work hard
+* The difference between earning and inheriting
+
+* But: Michael Jordan's contract
+	* It's not about who's trying harder, it's about who wins the games
+
+* But: your grades on papers
+
+### Why is healing ok?
+
+* Healing does not ovverride natural capacities but allows them to flourish
+* Good health is a condition for a good life, not the object or goal of a good life (we don't aspire to be a "virtuoso at health")
+* More and more health does not increase our success (i.e.m health is not a 'tool')
+
+### Unconditional Love
+
+* An openness to the unbidden
+* Accept children as gifts, not products of our will or instruments of our ambition:
+	-"Parental loe is not contingent on the talents and attrivutes the child happen to have"
