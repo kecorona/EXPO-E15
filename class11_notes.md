@@ -67,3 +67,38 @@
 * "Mutuality by inadvertence"
 * The successful are lucky and so have an obligation to share with the simply unlucky
 * "the deserving rich," "the deserving poor"
+
+## What can we do with Sources?
+
+* We must always _establish a 'stance'_ toward our sources
+	A stance is the position (or attitude) you as a writer take toward a source
+	A stance must be present for every source use
+	A stance is how you avoid merely 'echoing' sources and establish your own argument
+
+### What stances can we take toward sources?
+* YES (I agree with or approve of this source), AND SO (this agreement contributes to my argument in this way)
+* NO (I disagree or disapprove of this source), AND SO (this disagreement contributes to my own argument in this way)
+* YES BUT (this source is sort of right but needs correction)
+
+* So you should always be able to look at any source in your essay and see whether it is...
+	Yes, and so...
+	No, and so...
+	Sort of, and so...
+* If you can't say one of these three things, you are in danger of merely mimicking or echoing your sources. Don't do this!
+
+# Dov Fox, "Self-Made Men and Man-Made Selves"
+* Generally approving of Sandel's argument:
+	His "empirical spculation" is commended – until
+
+* However, "Sandel does not tell us whether the moral bads of parental controllingness and civic egoism ultimately outweigh the moral goods of parental liberty in reproductive decision-making and the promise of producing future generations who are more likely to have their lives go well" (667)
+	* In other words, the larger point or concern is that we are now confronted with a conflict of two worthy values
+	* What do we do when neither choice is right?
+
+# Elliot, "The Mixed Promise of Genetic Medicine"
+* The transformation of cosmetic surgery from a harmful practice to "psychiatry with a scalpel" (2024.1)
+* In other words, we can treat one kind of problem (psychological) with another method (medicine, surgery)
+
+# Your Assignment
+* Start thinking about your stances toward these sources: Whose argument do you find convincing (including Sandel's own) and why?
+* Complete Response Paper 6 (comparing the critical articles)
+* I will retain BEST FIVE RP scores for final grade (if you're happy with your five current scores, no need to do RP6)
