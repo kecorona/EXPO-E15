@@ -18,5 +18,41 @@
 		* You are not just answering these questions in terms of your own analysis – you are also incorporating the ideas, claims, critiques, and so on of the three critical articles
 		* In that sene, your argument itself will be modified or even determined by __what you think about the critical articles__
 		* In other words, your argument will be a kind of 'adjudication' among the different texts in terms of who is right or wrong and __why__
+		* The point here is to 'contribute' to the ongoing conversation
+			* What counts as a 'contribution'?
+				* Ways to make a contribution
+					* Qualifying the data or a claim made in the conversation
+					* Expanding on a claim
+					* Introducing a new component into claim
+					* Invalidating one position (in a new way, for new reasons)
+					* Exposing 'hidden' assumptions in the conversation					
+				* The point is that the conversation will in some way be altered by your essay
+					- Note how they are all _about the conversation_
+				* So, __you should be able to articulate the way that you are altering the conversation!__
+					- Indeed, this is actually your thesis statement
+				* NB: This essay has artificial constraints we should recognize
+		* Bad Thesis Statements
+			1. As, Fox, Levitt, and Elliott all show, there are a variety of ways to think about Sandel's argument in __The Case against Perfection__.
+				* Problem:
+					* Summarizes the conversation without contributing to the conversation
+			2. Even though Sandel argues that freedom and autonomy are not an issue in the debate over genetic enhancement and engineering, Levitt correctly argues that issues of personal liberty are paramount.
+				* Prob
+
+			3. Fox, Levitt, and Elliott all point out that Sandel's argument against genetic enhancement leaves many important moral issues unresolved and ambigious; however, the real problem with Sandel'a argument is that it is overly religious.
+
+				* Problem:
+					* Describes what the author things without connecting or identifying with the conversation at hand
+						* What you think must be informed by and a part of the conversation
+
 	2. What role will the critical articles play?
+		* The Proper Rols of the Critical Articles
+			* As these bad thesis statements demonstrate, your Essay 2 shouldn't be a 'book report', nor should it be a 'cheering section,' nor should it be your own argument with the critical articles simply 'in tow'
+			* Instead, the critical articles should play a role in determining what your argument is
+			* In order to do so, you first need to __clearly articulate__ your stances toward the critical articles
+
+		Your stances can be:
+			Yes(agree), and so...
+			No(disagree), and so...
+			Sort of, and so...
+		Before you begin writing Essay 2, be sure to write our whom you agree with, when, where, and why
 	3. What will the structure look like?
